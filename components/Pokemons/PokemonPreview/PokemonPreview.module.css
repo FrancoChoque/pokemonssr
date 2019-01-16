@@ -1,0 +1,29 @@
+.PokemonPreview{
+    width: 600px;
+    height: 200px;
+    border: 1px solid #eeeeee;
+    box-shadow: 0 2px 3px #cccccc;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: start;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 5px 10px;
+}
+
+.StatsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.StatsContainer p {
+    font-size: 20px;
+    font-weight: 400;
+}

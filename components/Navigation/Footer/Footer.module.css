@@ -1,0 +1,17 @@
+.Footer {
+    height: 75px;
+    bottom: 0;
+    left: 0;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4850bb;
+}
+
+.Footer p {
+    font-size: 18px;
+    color: #eeeeee;
+    text-decoration: none;
+}
